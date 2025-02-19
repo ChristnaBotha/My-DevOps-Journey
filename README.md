@@ -1,3 +1,4 @@
-# DevOps Journey
+AWS DevOps Journey
+I am a cloud-focused DevOps practitioner specializing in AWS infrastructure and automation. Transitioning from a legal career as an admitted attorney, notary public, and conveyancer in South Africa, I bring a strategic problem-solving mindset to cloud engineering.
 
-I'm an aspiring AWS DevOps Engineer transitioning from a legal career as an admitted attorney, notary public, and conveyancer in South Africa. This repository will document my progress as I learn AWS, CI/CD, Docker, Jenkins, and Terraform and more. Stay tuned for updates and projects!
+This repository showcases my hands-on experience with AWS services, infrastructure as code, and cloud best practices. I am committed to building scalable, secure, and efficient AWS solutions while continuously refining my expertise in cloud automation and DevOps methodologies.
